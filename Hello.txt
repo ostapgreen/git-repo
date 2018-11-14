@@ -1,2 +1,3 @@
 Some text to test repo
 test log
+try revert
